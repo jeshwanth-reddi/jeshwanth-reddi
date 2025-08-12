@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" align="right"  width="30%"/>
-### I'm a CS undergrad.<br><br>- 🔭 I’m currently exploring the realms of `Computer Science`<br>- 🌱 I’m currently learning about `Data Structures and Algorithms`<br>- 👯 Open to collaborating.<br>- 💼  Currently studying so seeking opportunities.<br>- ⚡ Fun fact: I use tabs over spaces<br>-  ❤️ I love coding
+### I'm a CS grad.<br><br>- 🔭 I’m currently exploring the realms of `Computer Science`<br>- 🌱 I’m currently learning about `Data Structures and Algorithms`<br>- 👯 Open to collaborating.<br>- 💼  Currently studying so seeking opportunities.<br>- ⚡ Fun fact: I use tabs over spaces<br>-  ❤️ I love coding
 
 
 
